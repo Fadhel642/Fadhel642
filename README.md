@@ -1,7 +1,7 @@
 # 👋 Salut, je suis Fadhel !
 
 🎓 Étudiant en classe préparatoire TSI  
-🎯 Futur élève-ingénieur en Cybersécurité & Intelligence Artificielle
+🎯 Futur élève-ingénieur en Cybersécurité, Data & Intelligence Artificielle
 🔍 En recherche d'une **alternance** dans les domaines :
 - 🔐 Cybersécurité
 - 🤖 Data / Intelligence Artificielle
