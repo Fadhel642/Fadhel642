@@ -16,6 +16,9 @@ Exemple :
 
 - 📁 [`Détecteur de phishing par e-mail`](https://github.com/Fadhel642/detecteur-de-phishing-par-e-mail)  
   Un programme Python qui détecte des e-mails suspects en analysant les mots-clés liés au phishing.
+- 📁 [`Analyseur de journaux SSH`](https://github.com/Fadhel642/log-analyzer)  
+  Un script Python qui lit les fichiers de logs SSH, extrait les tentatives échouées, puis affiche les adresses IP ayant échoué plusieurs fois à se connecter.
+
 
 ---
 
