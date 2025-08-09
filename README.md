@@ -25,7 +25,7 @@ Exemple :
 ## 🧠 Compétences techniques
 
 - Python (scripts, logique, traitement de texte)
-- Base de données : SQL (niveau débutant)
+- Base de données : SQL 
 - Algorithmes / Résolution de problèmes
 - Git / GitHub (bonnes pratiques)
 - Connaissances Linux & réseaux (niveau débutant)
