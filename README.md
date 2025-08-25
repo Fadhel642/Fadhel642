@@ -33,10 +33,4 @@ Exemple :
 
 ---
 
-## 📫 Contact
-- 🔗 [LinkedIn](https://www.linkedin.com/in/fadhel-gharbi)
-- 🧠 Toujours en train d’apprendre...
-
----
-
 > *“Ne cherche pas à impressionner. Apprends, progresse, et les résultats viendront.”*
